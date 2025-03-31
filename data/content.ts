@@ -54,11 +54,15 @@ export const contentData = [
     items: [
       {
         title: "Technical Skills",
+        subTitle: "",
+        date: "",
         description:
           "Microsoft 360, Figma, Power Automate, Power Bi, Agile Methodology / Scrum, Postman, IntelliJ, API Testing, Python, PHP (OOP), DBMS/ SQL, HTML/ CSS, UML",
       },
       {
         title: "Soft Skills",
+        subTitle: "",
+        date: "",
         description:
           "Problem solving, Team Work, Time management, Critical Thinking, Communication, Fast Learning",
       },
