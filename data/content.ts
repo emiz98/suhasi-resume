@@ -5,7 +5,7 @@ export const contentData = [
       {
         title: "Undergraduate Trainee Service Strategist",
         subTitle: "IFS R&D International (Pvt) Ltd",
-        date: "July 2024 - Present",
+        date: "July 2024 - July 2025",
         description:
           "Designed and built interactive dashboards using Power Automate and Power BI for data visualization and reporting. \n Assisted in planning and setting up initial service processes for IFS Cloud and Legacy products, ensuring structured workflows. \n Created Microsoft Forms integrated with Power Automate and SharePoint Lists to automate service request processing. \n Maintained and updated Service Catalog (SC) pages, ensuring accurate and up-to-date information. \n Authored Knowledge Base Articles (KBAs) to document key processes and solutions.",
       },
